@@ -3,9 +3,9 @@
 <p align="left"> I am a Systems Engineer interested in software development, QA, and Business Intelligence.</p>
 
 
-* Currently working as a Junior Software Engineer in [Everis an NTT Data Company].(https://www.everis.com/colombia/es/home-colombia)
+* Currently working as a Junior Software Engineer in [Everis an NTT Data Company](https://www.everis.com/colombia/es/home-colombia)
 
-* I studied my bachelor degree at [Julio Garavito Colombian School of Engineering].(https://www.escuelaing.edu.co/es/)
+* I studied my bachelor degree at [Julio Garavito Colombian School of Engineering](https://www.escuelaing.edu.co/es/)
 
 
 <h2 align="left"> GitHub Status </h2>
