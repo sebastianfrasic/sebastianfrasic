@@ -1,9 +1,11 @@
-<h1 align="center">Welcome to my profile. My name is <b>Juan Sebastián Frásica Galeano</b> </h1>
+<h1 align="center">Welcome to my profile! </h1>
+<h2>My name is Juan Sebastián Frásica Galeano</h2>
 <p align="left"> I am a Systems Engineer interested in software development, QA, and Business Intelligence</p>
 <p align="left"> </p>
 
-* 🔭 I am currently working in [Everis an NTT Data Company] as a Junior Software Engineer(https://www.everis.com/colombia/es/home-colombia)
-* 🔭 I studied at [Julio Garavito Colombian School of Engineering](https://www.escuelaing.edu.co/es/)
+* Currently working as a Junior Software Engineer in [Everis an NTT Data Company](https://www.everis.com/colombia/es/home-colombia)
+
+* I studied my bachelor degree at [Julio Garavito Colombian School of Engineering](https://www.escuelaing.edu.co/es/)
 
 
 <h2 align="left"> GitHub Status </h2>
