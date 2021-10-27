@@ -3,7 +3,7 @@
 <p align="left"> I am a Systems Engineer interested in software development, QA, and Business Intelligence.</p>
 
 
-* Currently working as a Junior Software Engineer in [Everis an NTT Data Company](https://www.everis.com/colombia/es/home-colombia)
+* Currently working as a Junior Software Engineer in [NTT Data](https://www.nttdata.com/global/en/)
 
 * I studied my bachelor degree at [Julio Garavito Colombian School of Engineering](https://www.escuelaing.edu.co/es/)
 
