@@ -61,7 +61,7 @@
     </td>
     <td width="25%" align="center">
       <span><b>Microsoft Azure</b></span><br><br><br>
-      <img height="64px" src="https://cdn.svgporn.com/logos/azure.svg">
+      <img height="64px" src="https://es.wikipedia.org/wiki/Microsoft_Azure#/media/Archivo:Microsoft_Azure.svg">
     </td>
     <td width="25%" align="center">
       <span><b>AWS</b></span><br><br><br>
