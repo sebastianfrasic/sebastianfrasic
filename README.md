@@ -8,19 +8,6 @@
 * I studied my bachelor degree at [Julio Garavito Colombian School of Engineering](https://www.escuelaing.edu.co/es/)
 
 
-<h2 align="left"> GitHub Status </h2>
-
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=sebastianfrasic">
-</div>
-
-<h2 align="left"> Most Used Languages </h2>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianfrasic)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 ---
 
 <h2 align="left"> Knowledge: </h2>
