@@ -1,9 +1,9 @@
 <h1 align="center">Welcome to my profile! </h1>
 <h2>My name is Juan Sebastián Frásica Galeano</h2>
-<p align="left"> I am a Systems Engineer interested in software development, QA, and Business Intelligence.</p>
+<p align="left"> Software Engineer passionate in software arquiecture, interested in data science.</p>
 
 
-* Currently working as a Software Engineer in [Globant](https://www.globant.com/es)
+* Currently working as a Software Engineer in [Mercado Libre](https://www.mercadolibre.com.co/)
 
 * I studied my bachelor degree at [Julio Garavito Colombian School of Engineering](https://www.escuelaing.edu.co/es/)
 
